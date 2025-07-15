@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: zeyang-shen
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Shen Lab
+subtitle: Bioinformatics in Host-Microbiome Interactions
+description: Shen Lab at Washington State Univeristy Pullman is dedicated to revealing mechanisms driving complex diseases with a combination of genomics, metagenomics, and bioinformatics. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
