@@ -5,6 +5,6 @@
 
   # zeyang-shen's Website
 
-  Visit **[zeyang-shen.github.io/shen-lab.github.io](https://zeyang-shen.github.io/shen-lab.github.io)** 🚀
+  Visit **[zeyang-shen.github.io/bioinfo-shen-lab.github.io](https://zeyang-shen.github.io/bioinfo-shen-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
