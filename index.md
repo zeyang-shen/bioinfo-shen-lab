@@ -1,9 +1,9 @@
 ---
 ---
 
-# zeyang-shen's Website
+# Shen Lab Website
 
-An engaging 1-3 sentence description of your lab.
+Shen Lab at Washington State Univeristy Pullman is dedicated to revealing mechanisms driving complex diseases with a combination of genomics, metagenomics, and bioinformatics. 
 
 {% include section.html %}
 
