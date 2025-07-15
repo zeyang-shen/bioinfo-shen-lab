@@ -1,7 +1,8 @@
 # site properties and page defaults
 title: Shen Lab
 subtitle: Bioinformatics in Host-Microbiome Interactions
-description: Shen Lab at Washington State Univeristy Pullman is dedicated to revealing mechanisms driving complex diseases with a combination of genomics, metagenomics, and bioinformatics. 
+description: Website for Shen Lab at Washington State Univeristy Pullman
+logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
