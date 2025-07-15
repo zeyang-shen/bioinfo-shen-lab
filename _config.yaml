@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@zeyang-shen.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: zeyang.shen@wsu.edu
+  google-scholar: Y9hIXl0AAAAJ
   github: zeyang-shen
-  twitter: zeyang-shen
-  youtube: zeyang-shen
 
 ### jekyll settings
 
